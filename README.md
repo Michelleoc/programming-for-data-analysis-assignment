@@ -4,18 +4,14 @@
 ***
 
 
-This repository contains an overview of the numpy.random pacakage in a Jupyter notebook.
+The repository contains a jupyter notebook "numpy-random-assignment" which outlines an overview of the numpy.random pacakage covering the following topics:  
+1. The overall purpose of the package.  
+2. The use of the “Simple random data” and “Permutations” functions.  
+3. The use and purpose of at least five “Distributions” functions.  
+4. The use of seeds in generating pseudorandom numbers.  
 
-Create a Jupyter notebook explaining the use of the NumPy random package, including detailed explanations of five of the distributions provided for in the package.
 
-
-The four tasks covered in the Jupyter notebook are:  
-1. Explain the overall purpose of the package.  
-2. Explain the use of the “Simple random data” and “Permutations” functions.  
-3. Explain the use and purpose of at least five “Distributions” functions.  
-4. Explain the use of seeds in generating pseudorandom numbers.  
-
-## Quick Steps
+## How to view the notebook
 
 You can view the notebook in static form by clicking the following image:
 
