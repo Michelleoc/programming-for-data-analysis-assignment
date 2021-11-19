@@ -21,10 +21,23 @@ You can view the notebook in dynamic form by clicking the following image:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/programming-for-data-analysis-assignment/main?filepath=numpy-random-assignment.ipynb)
 
+  
+
 ## How to run the notebook
 
 1. Download [Anaconda]().
 2. Download [cmder]() if on Windows
 3. Run'jupyter lab'
+  
 
 
+## Packages used in the notebook
+
+1. NumPy  
+    Python library used for working with arrays, including a large collection of high-level mathematical functions to operate on these arrays  
+
+2. Matplotlib  
+    Comprehensive library for creating static, animated, and interactive visualizations in Python  
+
+3. Seaborn  
+    Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics
