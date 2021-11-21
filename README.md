@@ -4,7 +4,7 @@
 ***
 
 
-The repository contains a jupyter notebook "numpy-random-assignment" which outlines an overview of the numpy.random pacakage covering the following topics:  
+The repository contains a jupyter notebook "numpy-random-assignment" which outlines an overview of the numpy random pacakage covering the following topics:  
 1. The overall purpose of the package.  
 2. The use of the “Simple random data” and “Permutations” functions.  
 3. The use and purpose of at least five “Distributions” functions.  
